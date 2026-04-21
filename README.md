@@ -114,7 +114,7 @@ This project was completed as part of Natural Language Processing coursework, fo
 ## 📎 Note
 
 This project is part of a larger natural language processing repository:  
-👉 https://github.com/Saji-d/natural-language-processing-projects  
+👉 https://github.com/Saji-d/natural-language-processing  
 
 ---
 
