@@ -72,7 +72,7 @@ All datasets were cleaned, normalized, and label-mapped consistently.
 - Better understanding of financial context  
 
 ### 💡 Key Insight  
-Domain-specific pretraining significantly improves sentiment classification performance.
+Domain-specific pretraining consistently improves sentiment classification performance.
 
 ---
 
