@@ -22,7 +22,6 @@
     <a href="#-tech-stack">Tech Stack</a> ·
     <a href="#-getting-started">Getting Started</a> ·
     <a href="#-project-structure">Structure</a> ·
-    <a href="#-roadmap">Roadmap</a> ·
     <a href="#-author">Author</a>
   </p>
 </div>
@@ -146,6 +145,8 @@ Labels must be `negative`, `neutral` or `positive`.
 
 ## ◈ Project Structure
 
+One notebook holds all three tasks, the IEEE-style report is in `report/` and the figures are in `docs/`.
+
 ```text
 .
 ├── financial_sentiment_bert_vs_finbert.ipynb   # tasks 1 and 2 (lab exercises) and task 3 (BERT vs FinBERT)
@@ -158,20 +159,18 @@ Labels must be `negative`, `neutral` or `positive`.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## ◈ Roadmap
-
-- [x] Fine-tune and compare BERT and FinBERT on two datasets
-- [x] Report accuracy, macro-F1 and confusion matrices
-- [ ] Repeat with several seeds and report mean and spread
-- [ ] Add per-class precision and recall to the summary table
-- [ ] Add a small inference script or demo for custom sentences
-
-<img src="assets/divider.svg" alt="" width="100%">
-
 ## ◈ Author
 
-**Sajidur Rahman Sajid**, Full-Stack Developer and AI engineer from Dhaka. Report co-authors: Badhan Ghosh and Sidratul Muntaha (AIUB, Natural Language Processing course).
+**Sajidur Rahman Sajid**: Full-Stack Developer and AI engineer from Dhaka.<br>
+BSc in CSE at American International University-Bangladesh (AIUB).
 
-[Portfolio](https://www.sajidur.me) · [LinkedIn](https://www.linkedin.com/in/sajidur-rahman-sajid/) · [GitHub](https://github.com/Saji-d) · [Email](mailto:sajidsajidurrahman99@gmail.com)
+Report co-authors: Badhan Ghosh and Sidratul Muntaha (AIUB, Natural Language Processing course).
+
+<p>
+  <a href="https://www.sajidur.me"><img src="https://img.shields.io/badge/Portfolio-0B0E1A?style=flat-square&logo=googlechrome&logoColor=9B8CFA" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sajidur-rahman-sajid/"><img src="https://img.shields.io/badge/LinkedIn-0B0E1A?style=flat-square&logo=linkedin&logoColor=8B7CF6" alt="LinkedIn"></a>
+  <a href="https://github.com/Saji-d"><img src="https://img.shields.io/badge/GitHub-0B0E1A?style=flat-square&logo=github&logoColor=EEF0FA" alt="GitHub"></a>
+  <a href="mailto:sajidsajidurrahman99@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E1A?style=flat-square&logo=gmail&logoColor=9B8CFA" alt="Email"></a>
+</p>
 
 <sub>Part of a larger NLP repository: <a href="https://github.com/Saji-d/natural-language-processing">natural-language-processing</a>.</sub>
